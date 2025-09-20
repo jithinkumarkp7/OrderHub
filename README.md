@@ -59,4 +59,4 @@ The app is **fully responsive**, optimized for:
 
 ## 👨‍💻 Author
 
-Designed & Developed by **JKP** © 2024
+Designed & Developed by **JKP** © 2025
